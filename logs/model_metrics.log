@@ -1,0 +1,4 @@
+2023-12-11T14:01:53,184 - HandlerTime.ms:803.84|#ModelName:CassavaModel,Level:Model|#hostname:DESKTOP-M930GPA,requestID:1a3af356-1296-4282-9d6c-ea323ed56f76,timestamp:1702299713
+2023-12-11T14:01:53,185 - PredictionTime.ms:804.07|#ModelName:CassavaModel,Level:Model|#hostname:DESKTOP-M930GPA,requestID:1a3af356-1296-4282-9d6c-ea323ed56f76,timestamp:1702299713
+2023-12-11T14:08:41,563 - HandlerTime.ms:121.45|#ModelName:CassavaModel,Level:Model|#hostname:DESKTOP-M930GPA,requestID:8a4aaf4e-1d62-4cf3-af50-3d17a276c915,timestamp:1702300121
+2023-12-11T14:08:41,564 - PredictionTime.ms:121.88|#ModelName:CassavaModel,Level:Model|#hostname:DESKTOP-M930GPA,requestID:8a4aaf4e-1d62-4cf3-af50-3d17a276c915,timestamp:1702300121

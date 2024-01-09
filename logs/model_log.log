@@ -1,0 +1,414 @@
+2023-12-11T09:38:23,230 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=1424
+2023-12-11T09:38:23,237 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2023-12-11T09:38:23,269 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,288 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - [PID]1424
+2023-12-11T09:38:23,290 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,292 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,399 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2023-12-11T09:38:23,400 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9009, pid=1421
+2023-12-11T09:38:23,402 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2023-12-11T09:38:23,423 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9015, pid=1431
+2023-12-11T09:38:23,435 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2023-12-11T09:38:23,432 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,438 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - [PID]1421
+2023-12-11T09:38:23,439 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,439 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,464 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,465 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9007, pid=1459
+2023-12-11T09:38:23,471 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2023-12-11T09:38:23,471 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - [PID]1431
+2023-12-11T09:38:23,472 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,472 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,475 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2023-12-11T09:38:23,489 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,490 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - [PID]1459
+2023-12-11T09:38:23,490 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,490 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,547 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:23,573 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2023-12-11T09:38:23,708 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:23,573 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=1458
+2023-12-11T09:38:23,718 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2023-12-11T09:38:23,718 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,718 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - [PID]1458
+2023-12-11T09:38:23,719 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,719 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,719 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2023-12-11T09:38:23,793 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:23,799 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9008, pid=1420
+2023-12-11T09:38:23,809 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:23,819 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2023-12-11T09:38:23,824 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2023-12-11T09:38:23,885 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,886 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - [PID]1420
+2023-12-11T09:38:23,886 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,886 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,894 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9004, pid=1456
+2023-12-11T09:38:23,897 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2023-12-11T09:38:23,911 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:23,917 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=1453
+2023-12-11T09:38:23,919 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9006, pid=1451
+2023-12-11T09:38:23,919 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2023-12-11T09:38:23,919 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2023-12-11T09:38:23,950 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,950 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,951 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - [PID]1453
+2023-12-11T09:38:23,951 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,951 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,953 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:23,954 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - [PID]1456
+2023-12-11T09:38:23,954 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:23,955 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - [PID]1451
+2023-12-11T09:38:23,956 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:23,974 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2023-12-11T09:38:23,986 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2023-12-11T09:38:24,002 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,047 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9011, pid=1452
+2023-12-11T09:38:24,048 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,048 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2023-12-11T09:38:24,048 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,048 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - [PID]1452
+2023-12-11T09:38:24,048 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,049 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,049 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,054 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9014, pid=1433
+2023-12-11T09:38:24,078 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2023-12-11T09:38:24,079 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,081 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - [PID]1433
+2023-12-11T09:38:24,081 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,081 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,081 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9010, pid=1455
+2023-12-11T09:38:24,078 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=1423
+2023-12-11T09:38:24,102 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2023-12-11T09:38:24,103 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,103 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - [PID]1455
+2023-12-11T09:38:24,104 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2023-12-11T09:38:24,104 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,112 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,112 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - [PID]1423
+2023-12-11T09:38:24,113 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,113 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,104 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,119 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9012, pid=1450
+2023-12-11T09:38:24,146 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2023-12-11T09:38:24,167 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2023-12-11T09:38:24,167 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2023-12-11T09:38:24,167 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,167 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9013, pid=1429
+2023-12-11T09:38:24,192 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - [PID]1450
+2023-12-11T09:38:24,230 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2023-12-11T09:38:24,231 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2023-12-11T09:38:24,232 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2023-12-11T09:38:24,232 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,232 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - [PID]1429
+2023-12-11T09:38:24,233 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,233 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,230 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,230 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9005, pid=1454
+2023-12-11T09:38:24,191 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2023-12-11T09:38:24,252 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2023-12-11T09:38:24,252 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,254 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,255 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,344 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2023-12-11T09:38:24,345 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:38:24,345 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - [PID]1454
+2023-12-11T09:38:24,346 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:38:24,346 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:38:24,372 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,406 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,407 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,407 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,415 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,426 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2023-12-11T09:38:24,466 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2023-12-11T09:38:24,468 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2023-12-11T09:38:24,595 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,595 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:24,596 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:38:27,682 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:27,700 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:27,825 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:27,827 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,233 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,252 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,429 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,431 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,491 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,491 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,492 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,492 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,540 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,540 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,750 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,750 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,750 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,817 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,818 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:28,819 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,844 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,884 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:28,885 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:28,886 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,077 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,094 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,095 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,100 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,100 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,128 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,144 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,144 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,174 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,198 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,199 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,232 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,233 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,290 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,290 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,357 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,379 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,396 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,437 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:38:29,438 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:38:29,474 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,524 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,615 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:38:29,699 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/ff1a33219f7e4cdc95358b15cf066257/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:41:54,656 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Backend received inference at: 1702284114
+2023-12-11T09:41:54,691 [WARN ] W-9007-CassavaModel_1.0-stderr MODEL_LOG - /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+2023-12-11T09:41:54,691 [WARN ] W-9007-CassavaModel_1.0-stderr MODEL_LOG -   warnings.warn(
+2023-12-11T09:41:54,748 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2023-12-11T09:41:54,748 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2023-12-11T09:41:54,748 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/service.py", line 134, in predict
+2023-12-11T09:41:54,748 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/torch_handler/base_handler.py", line 355, in handle
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -     return func(*args, **kwargs)
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -   File "/tmp/models/ff1a33219f7e4cdc95358b15cf066257/handler_script.py", line 38, in preprocess
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG -     data = self.transform(data).unsuqeeze(0)
+2023-12-11T09:41:54,749 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - AttributeError: 'Tensor' object has no attribute 'unsuqeeze'. Did you mean: 'unsqueeze'?
+2023-12-11T09:43:23,099 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,106 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,115 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,121 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,126 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,131 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,138 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,159 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,178 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,192 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,200 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,203 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,206 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,210 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,216 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:43:23,222 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Frontend disconnected.
+2023-12-11T09:44:51,212 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=1748
+2023-12-11T09:44:51,217 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2023-12-11T09:44:51,246 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,251 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - [PID]1748
+2023-12-11T09:44:51,253 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,255 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:51,293 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2023-12-11T09:44:51,305 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9010, pid=1756
+2023-12-11T09:44:51,335 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9010
+2023-12-11T09:44:51,345 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,347 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - [PID]1756
+2023-12-11T09:44:51,348 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,348 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:51,375 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9010.
+2023-12-11T09:44:51,410 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9013, pid=1779
+2023-12-11T09:44:51,425 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9013
+2023-12-11T09:44:51,426 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:51,437 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:51,454 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,455 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - [PID]1779
+2023-12-11T09:44:51,455 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,456 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:51,465 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9013.
+2023-12-11T09:44:51,703 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=1745
+2023-12-11T09:44:51,705 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:51,721 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2023-12-11T09:44:51,760 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,767 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - [PID]1745
+2023-12-11T09:44:51,768 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,769 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:51,781 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2023-12-11T09:44:51,856 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:51,862 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9011, pid=1783
+2023-12-11T09:44:51,865 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9011
+2023-12-11T09:44:51,901 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,902 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - [PID]1783
+2023-12-11T09:44:51,902 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,902 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:51,941 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9011.
+2023-12-11T09:44:51,947 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9007, pid=1782
+2023-12-11T09:44:51,978 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2023-12-11T09:44:51,979 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:51,984 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - [PID]1782
+2023-12-11T09:44:51,988 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:51,989 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,031 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2023-12-11T09:44:52,042 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,107 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,138 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9006, pid=1757
+2023-12-11T09:44:52,141 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2023-12-11T09:44:52,160 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9015, pid=1780
+2023-12-11T09:44:52,161 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9015
+2023-12-11T09:44:52,164 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,168 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - [PID]1757
+2023-12-11T09:44:52,169 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,170 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,174 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2023-12-11T09:44:52,226 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,227 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - [PID]1780
+2023-12-11T09:44:52,227 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,227 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,228 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9005, pid=1750
+2023-12-11T09:44:52,228 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2023-12-11T09:44:52,228 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,228 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - [PID]1750
+2023-12-11T09:44:52,229 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,229 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,287 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,296 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9015.
+2023-12-11T09:44:52,345 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2023-12-11T09:44:52,416 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9014, pid=1773
+2023-12-11T09:44:52,417 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9014
+2023-12-11T09:44:52,417 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9008, pid=1785
+2023-12-11T09:44:52,417 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9012, pid=1781
+2023-12-11T09:44:52,418 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9008
+2023-12-11T09:44:52,418 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9012
+2023-12-11T09:44:52,418 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,418 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,418 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - [PID]1785
+2023-12-11T09:44:52,418 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - [PID]1781
+2023-12-11T09:44:52,418 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,418 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,419 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,419 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,419 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,462 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=1784
+2023-12-11T09:44:52,462 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,436 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,463 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - [PID]1773
+2023-12-11T09:44:52,462 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9009, pid=1778
+2023-12-11T09:44:52,463 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,463 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,463 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9009
+2023-12-11T09:44:52,464 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2023-12-11T09:44:52,460 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=1747
+2023-12-11T09:44:52,465 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2023-12-11T09:44:52,473 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,481 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,481 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - [PID]1747
+2023-12-11T09:44:52,482 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,487 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,489 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - [PID]1784
+2023-12-11T09:44:52,489 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,490 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,486 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9012.
+2023-12-11T09:44:52,501 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9008.
+2023-12-11T09:44:52,541 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - [PID]1778
+2023-12-11T09:44:52,541 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,543 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,548 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,595 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2023-12-11T09:44:52,616 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,618 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9004, pid=1744
+2023-12-11T09:44:52,669 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9014.
+2023-12-11T09:44:52,673 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2023-12-11T09:44:52,673 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T09:44:52,673 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - [PID]1744
+2023-12-11T09:44:52,697 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T09:44:52,697 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2023-12-11T09:44:52,697 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T09:44:52,697 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,697 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,809 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9009.
+2023-12-11T09:44:52,887 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2023-12-11T09:44:52,891 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,897 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:52,906 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:53,105 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T09:44:55,950 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:55,952 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:56,278 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:56,279 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:56,357 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:56,527 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:56,531 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:56,568 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:56,569 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:56,645 [INFO ] W-9001-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:56,794 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:56,795 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:56,858 [INFO ] W-9011-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:56,924 [INFO ] W-9010-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:56,991 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:56,992 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,106 [INFO ] W-9005-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,309 [INFO ] W-9013-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,377 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,377 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,417 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,418 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,532 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,532 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,620 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,621 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,642 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,643 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,663 [INFO ] W-9007-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,696 [INFO ] W-9006-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,786 [INFO ] W-9015-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,806 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:57,807 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:57,889 [INFO ] W-9008-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:57,910 [INFO ] W-9003-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:58,004 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:58,004 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:58,029 [INFO ] W-9012-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:58,038 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:58,038 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:58,067 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:58,068 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:58,081 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T09:44:58,081 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T09:44:58,218 [INFO ] W-9004-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:58,267 [INFO ] W-9014-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:58,282 [INFO ] W-9009-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:44:58,303 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T09:45:09,346 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Backend received inference at: 1702284309
+2023-12-11T09:45:09,381 [WARN ] W-9002-CassavaModel_1.0-stderr MODEL_LOG - /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+2023-12-11T09:45:09,383 [WARN ] W-9002-CassavaModel_1.0-stderr MODEL_LOG -   warnings.warn(
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/service.py", line 134, in predict
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/torch_handler/base_handler.py", line 355, in handle
+2023-12-11T09:45:09,418 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -     return func(*args, **kwargs)
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -   File "/tmp/models/721b9a14a5824aa1bcbd24d10cfd3f0a/handler_script.py", line 40, in preprocess
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -     return data.cuda()
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -   File "/home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torch/cuda/__init__.py", line 298, in _lazy_init
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG -     torch._C._cuda_init()
+2023-12-11T09:45:09,419 [INFO ] W-9002-CassavaModel_1.0-stdout MODEL_LOG - RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+2023-12-11T14:01:43,899 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=9769
+2023-12-11T14:01:43,901 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2023-12-11T14:01:43,905 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Successfully loaded /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/ts/configs/metrics.yaml.
+2023-12-11T14:01:43,906 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - [PID]9769
+2023-12-11T14:01:43,906 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch worker started.
+2023-12-11T14:01:43,906 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Python runtime: 3.10.13
+2023-12-11T14:01:43,917 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2023-12-11T14:01:43,943 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - model_name: CassavaModel, batchSize: 1
+2023-12-11T14:01:45,554 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Enabled tensor cores
+2023-12-11T14:01:45,554 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2023-12-11T14:01:45,554 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2023-12-11T14:01:46,028 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - '/tmp/models/04a752da51fe474e8057be567efb453c/index_to_name.json' is missing. Inference output will not include class name.
+2023-12-11T14:01:52,379 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Backend received inference at: 1702299712
+2023-12-11T14:01:52,399 [WARN ] W-9000-CassavaModel_1.0-stderr MODEL_LOG - /home/harkhymadhe/mambaforge/lib/python3.10/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+2023-12-11T14:01:52,400 [WARN ] W-9000-CassavaModel_1.0-stderr MODEL_LOG -   warnings.warn(
+2023-12-11T14:08:41,440 [INFO ] W-9000-CassavaModel_1.0-stdout MODEL_LOG - Backend received inference at: 1702300121
