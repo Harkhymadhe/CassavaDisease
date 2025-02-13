@@ -57,7 +57,11 @@ class CassavaClassifier(ImageClassifier):
         print(data)
         data = data[0]
 
-        data = np.frombuffer(data["data"], dtype=np.uint8)
+        try:
+            data = np.frombuffer(data["data"], dtype=np.uint8)
+        except:
+            data = np.frombuffer(data["body"], dtype=np.uint8)
+
         data = cv2.imdecode(data, cv2.IMREAD_COLOR)
         data = np.asarray(data, dtype="uint8")
 
