@@ -1,0 +1,12 @@
+torch
+torchserve
+torch-workflow-archiver
+torch-model-archiver
+captum
+nvgpu
+torchvision
+imageio
+os
+random
+pillow
+argparse
