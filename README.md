@@ -67,7 +67,7 @@ $ torch-model-archiver --model-name $MODEL_NAME --version 1.0 --model-file src/m
 The final deployment will be served from this archive. To start the deployment from the model archive, run the code below:
 
 ```bash
-$ torchserve --start --model-store artefacts/models/model_store --models $MODEL_NAME=$MODEL_NAME.mar
+$ torchserve --start --model-store artefacts/models/model_store --models $MODEL_NAME=$MODEL_NAME.mar --ncs --disable-token-auth
 ```
 
 This will expose deployment endpoints as shown below:

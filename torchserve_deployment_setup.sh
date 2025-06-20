@@ -1,0 +1,2 @@
+source .env
+torch-model-archiver --model-name $MODEL_NAME --version 1.0 --model-file src/models.py --serialized-file artefacts/models/scripted_model.pt --handler src/deployment/torchserve/handler_script.py --export-path artefacts/models/model_store
