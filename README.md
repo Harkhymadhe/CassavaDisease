@@ -5,7 +5,8 @@
 ### Overview
 
 ---
-This project explores the design and training of convolutional neural networks for predicting cassava diseases. To achieve this,  prerained CNN models were leveraged, such as VGG and ResNet.
+
+This project explores the design and training of convolutional neural networks for predicting cassava diseases. To achieve this,  pretrained CNN models were leveraged, such as VGG and ResNet.
 
 Different options were leveraged for deployment, including:
 
@@ -17,7 +18,7 @@ Different options were leveraged for deployment, including:
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Other tools leveraged for this project may be found in the <a hef="pyproject.toml">pyproject.toml</a> file.
+Other tools leveraged for this project may be found in the <a href="pyproject.toml">pyproject.toml</a> file.
 
 ### Repository Structure
 
