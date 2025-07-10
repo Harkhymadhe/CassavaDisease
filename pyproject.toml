@@ -1,0 +1,26 @@
+[project]
+name = "Cassava-Disease"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi==0.115.12",
+    "numpy==1.26.4",
+    "torch==2.7.1",
+    "torchserve==0.12.0",
+    "torch-workflow-archiver==0.2.15",
+    "torch-model-archiver==0.12.0",
+    "captum==0.8.0",
+    "nvgpu==0.10.0",
+    "torchvision==0.22.1",
+    "imageio==2.37.0",
+    "pillow==11.2.1",
+    "argparse==1.4.0",
+    "python-multipart==0.0.20",
+    "uvicorn==0.34.3",
+    "opencv-python-headless==4.11.0.86",
+    "PyYAML==6.0.2",
+    "python-decouple==3.8"
+]
+
